@@ -46,9 +46,14 @@ to support data-driven decision-making.
 <h2>📷 Dashboard Preview</h2>
 <p><i>Add your screenshots below:</i></p>
 
-<img src="dashboard_screenshot.png" alt="Dashboard Screenshot" width="800"/>
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d91a9f2a-507f-4669-be2c-4e05327e876e" />
+
 <br><br>
-<img src="insights.png" alt="Insights Screenshot" width="800"/>
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/cf0d744b-6b09-4c1b-b53c-50523e07397b" />
+
+<br><br>
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/4cde26ae-0070-4098-85ce-4209e5c28902" />
+
 
 <hr>
 
