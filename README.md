@@ -44,7 +44,6 @@ to support data-driven decision-making.
 <hr>
 
 <h2>📷 Dashboard Preview</h2>
-<p><i>Add your screenshots below:</i></p>
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d91a9f2a-507f-4669-be2c-4e05327e876e" />
 
